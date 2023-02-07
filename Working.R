@@ -1,3 +1,19 @@
+ipm_data = GN_genet_05cm
+ipm_data = ipm_data[,-c(6,7)]
+
+ipm_data$neighbors_area_05cm = GN_genet_05cm$neighbors_area
+ipm_data$nBuff_area_05cm = GN_genet_05cm$nBuff_area
+
+ipm_data$neighbors_area_10cm = GN_genet_10cm$neighbors_area
+ipm_data$nBuff_area_10cm = GN_genet_10cm$nBuff_area
+
+ipm_data$neighbors_area_15cm = GN_genet_15cm$neighbors_area
+ipm_data$nBuff_area_15cm = GN_genet_15cm$nBuff_area
+
+ipm_data$neighbors_area_20cm = GN_genet_20cm$neighbors_area
+ipm_data$nBuff_area_20cm = GN_genet_20cm$nBuff_area
+
+
 ## Build the discretized kernel
 m=100
 L= 0.9*min(dat$area_t)
