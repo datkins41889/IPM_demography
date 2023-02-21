@@ -1,0 +1,586 @@
+BIN,numb.stalks,leaf.ht.mm,inflo.ht.mm,BA.cm2,site,sum.glumes,spp.code,spp,seeds_per_glume
+BFL1,9,157,376,132.83,Big Fill,221,BOUGRA,blue grama,1
+BFL2,19,92,300,84.72,Big Fill,574,BOUGRA,blue grama,1
+BFL3,30,134,365,85.71,Big Fill,721,BOUGRA,blue grama,1
+BFL5,9,169,290,78.44,Big Fill,302,BOUGRA,blue grama,1
+BFM1,1,110,165,88.94,Big Fill,17,BOUGRA,blue grama,1
+BFM2,6,131,273,50.71,Big Fill,125,BOUGRA,blue grama,1
+BFM3,1,130,226,48.89,Big Fill,23,BOUGRA,blue grama,1
+BFM4,2,100,232,45.57,Big Fill,40,BOUGRA,blue grama,1
+BFS1,1,142,212,27.38,Big Fill,24,BOUGRA,blue grama,1
+BFS2,1,79,255,31.57,Big Fill,14,BOUGRA,blue grama,1
+BFXS1,3,93,174,9.75,Big Fill,46,BOUGRA,blue grama,1
+BFXS2,4,127,338,13.97,Big Fill,69,BOUGRA,blue grama,1
+BFXS3,1,123,194,11.94,Big Fill,14,BOUGRA,blue grama,1
+BFM1,4,228,650,353.1,BF,193,POAFEN,muttongrass,4.5
+BFS1,2,205,460,29.3,BF,98,POAFEN,muttongrass,4.5
+BFXS1,1,189,390,27.9,BF,35,POAFEN,muttongrass,4.5
+BSL1,28,338,543,97.2,BS,1170,POAFEN,muttongrass,4.5
+BSS1,2,188,285,24.1,BS,93,POAFEN,muttongrass,4.5
+BSS2,5,212,616,17.4,BS,101,POAFEN,muttongrass,4.5
+BSXL1,14,370,602,233,BS,568,POAFEN,muttongrass,4.5
+FPM1,8,296,376,87.5,FP,272,POAFEN,muttongrass,4.5
+FPS1,4,220,510,49.6,FP,154,POAFEN,muttongrass,4.5
+GKL2,3,197,258,75.9,GK,65,POAFEN,muttongrass,4.5
+GKM1,7,244,391,61.9,GK,197,POAFEN,muttongrass,4.5
+GKS1,3,212,517,33.8,GK,95,POAFEN,muttongrass,4.5
+KPL1,12,190,525,69.2,KP,479,POAFEN,muttongrass,4.5
+KPL2,20,171,317,64.2,KP,933,POAFEN,muttongrass,4.5
+KPL4,6,214,635,88.2,KP,263,POAFEN,muttongrass,4.5
+KPM1,2,228,545,36.5,KP,88,POAFEN,muttongrass,4.5
+RLS1,5,185,331,53,RL,118,POAFEN,muttongrass,4.5
+RLS2,4,186,305,49.8,RL,78,POAFEN,muttongrass,4.5
+RLS3,6,295,644,31.4,RL,204,POAFEN,muttongrass,4.5
+RLXS1,1,44,95,16.6,RL,26,POAFEN,muttongrass,4.5
+RLXS2,10,246,500,21.9,RL,342,POAFEN,muttongrass,4.5
+RLXS3,6,222,604,18.3,RL,199,POAFEN,muttongrass,4.5
+S2XS1,5,282,853,13.9,S2,154,POAFEN,muttongrass,4.5
+SIS1,8,270,305,5.7,SI,238,POAFEN,muttongrass,4.5
+RTL1,7,455,834,32.11069,RT,77,BROCIL,fringed brome,6
+RTM1,2,164,530,15.60076,RT,13,BROCIL,fringed brome,6
+RTM2,5,114,703,11.20586,RT,56,BROCIL,fringed brome,6
+RTS1,3,172,527,6.329747,RT,20,BROCIL,fringed brome,6
+RTS2,2,143,365,13.19642,RT,8,BROCIL,fringed brome,6
+RTS3,2,164,743,6.617079,RT,30,BROCIL,fringed brome,6
+S2L1,1,183,321,18.55941,S2,9,BROCIL,fringed brome,6
+S2M1,2,105,492,11.65251,S2,19,BROCIL,fringed brome,6
+S2M2,1,189,396,9.984359,S2,8,BROCIL,fringed brome,6
+S2M3,4,101,395,12.06076,S2,24,BROCIL,fringed brome,6
+S2M6,1,158,455,12.52136,S2,10,BROCIL,fringed brome,6
+S2S1,2,261,488,2.538766,S2,20,BROCIL,fringed brome,6
+S2S3,1,163,572,2.75103,S2,14,BROCIL,fringed brome,6
+S2S4,1,222,305,5.140989,S2,8,BROCIL,fringed brome,6
+S2S5,1,135,504,9.091579,S2,10,BROCIL,fringed brome,6
+FPL1,7,71,113,108.899,FP,275,MUHTRI,pine dropseed,1
+FPL2,4,61,160,67.11811,FP,156,MUHTRI,pine dropseed,1
+FPM1,4,78,205,52.33797,FP,197,MUHTRI,pine dropseed,1
+FPM2,6,46,222,60.88453,FP,440,MUHTRI,pine dropseed,1
+FPM3,3,48,132,67.65785,FP,377,MUHTRI,pine dropseed,1
+FPS1,1,22,68,37.49379,FP,43,MUHTRI,pine dropseed,1
+FPS2,1,46,92,16.51016,FP,39,MUHTRI,pine dropseed,1
+FPS3,5,47,204,31.0187,FP,421,MUHTRI,pine dropseed,1
+RLL1,3,113,347,49.33598,RL,310,MUHTRI,pine dropseed,1
+RLM1,1,90,183,24.74675,RL,117,MUHTRI,pine dropseed,1
+RLM2,1,93,305,20.3191,RL,81,MUHTRI,pine dropseed,1
+RLM3,2,85,336,21.9643,RL,112,MUHTRI,pine dropseed,1
+RLS1,1,48,366,8.436999,RL,99,MUHTRI,pine dropseed,1
+RLS2,2,66,310,6.064636,RL,216,MUHTRI,pine dropseed,1
+RLS3,1,82,212,12.45066,RL,146,MUHTRI,pine dropseed,1
+BFL1,40,396,985,203.913,BF,928,FESARI,Arizona fescue,5
+BFL2,54,430,932,221.6235,BF,2208,FESARI,Arizona fescue,5
+BFM1,45,315,812,101.4212,BF,904,FESARI,Arizona fescue,5
+BFM2,30,260,690,103.2058,BF,875,FESARI,Arizona fescue,5
+BFM4,24,400,844,194.4341,BF,537,FESARI,Arizona fescue,5
+BFM8,29,312,832,140.0415,BF,768,FESARI,Arizona fescue,5
+BFS2,6,230,690,37.32287,BF,213,FESARI,Arizona fescue,5
+BFS5,9,300,759,58.89452,BF,184,FESARI,Arizona fescue,5
+BFS6,26,382,847,61.98274,BF,782,FESARI,Arizona fescue,5
+BFS7,18,332,800,35.48767,BF,495,FESARI,Arizona fescue,5
+RTL1,14,355,845,213.473,RT,252,FESARI,Arizona fescue,5
+RTL2,21,276,761,203.811,RT,598,FESARI,Arizona fescue,5
+RTM1,12,286,650,139.5163,RT,347,FESARI,Arizona fescue,5
+RTS1,4,383,721,84.29995,RT,86,FESARI,Arizona fescue,5
+BFL2,7,208,573,180.7527,BF,325,MUHMON,mountain muhly,1
+FPM2,4,150,297,40.60677,FP,145,MUHMON,mountain muhly,1
+KPS2,1,80,196,6.976348,KP,42,MUHMON,mountain muhly,1
+KPS6,2,138,202,4.440301,KP,134,MUHMON,mountain muhly,1
+SIL1,5,321,275,37.28872,SI,208,MUHMON,mountain muhly,1
+SIM1,4,113,351,17.09872,SI,220,MUHMON,mountain muhly,1
+SIS1,2,172,382,12.79231,SI,90,MUHMON,mountain muhly,1
+BFL1,11,350,782,129.5402321,BF,195,ELYELY,squirreltail,3
+BFS3,1,190,380,2.120850609,BF,10,ELYELY,squirreltail,3
+BSM1,5,310,562,35.00354,BS,70,ELYELY,squirreltail,3
+BSS1,2,0,372,5.469816,BS,20,ELYELY,squirreltail,3
+FPL1,5,221,460,106.1631,FP,103,ELYELY,squirreltail,3
+FPL2,17,310,727,87.56358,FP,379,ELYELY,squirreltail,3
+FPM1,8,154,519,38.54077,FP,99,ELYELY,squirreltail,3
+FPS2,3,241,560,13.98533,FP,58,ELYELY,squirreltail,3
+KPS4,1,330,574,4.519124,KP,25,ELYELY,squirreltail,3
+RLM1,4,233,475,19.56441,RL,77,ELYELY,squirreltail,3
+RLS5,1,231,516,7.579276,RL,16,ELYELY,squirreltail,3
+RTM1,1,208,540,10.42725,RT,33,ELYELY,squirreltail,3
+RTXL1,18,172,800,156.1601,RT,340,ELYELY,squirreltail,3
+S2L4,10,336,700,39.62861,S2,139,ELYELY,squirreltail,3
+S2M5,6,150,537,15.05615,S2,75,ELYELY,squirreltail,3
+BSM4,1,701,102,3.556305,Black Springs,132,KOEMAC,Junegrass,2.5
+BSS1,1,75,557,1.296511,Black Springs,86,KOEMAC,Junegrass,2.5
+BSXL4,3,103,635,11.91848,Black Springs,448,KOEMAC,Junegrass,2.5
+FPL10,2,53,366,6.759973,Fry Park,172,KOEMAC,Junegrass,2.5
+FPL6,1,60,225,8.307685,Fry Park,116,KOEMAC,Junegrass,2.5
+FPS4,1,36,250,1.560649,Fry Park,96,KOEMAC,Junegrass,2.5
+FPXL10,9,75,315,34.82596,Fry Park,842,KOEMAC,Junegrass,2.5
+FPXL4,13,61,382,39.842,Fry Park,1328,KOEMAC,Junegrass,2.5
+RLM1,4,377,176,4.190055,Rogers Lake,1059,KOEMAC,Junegrass,2.5
+RLM2,2,385,211,4.935817,Rogers Lake,429,KOEMAC,Junegrass,2.5
+RLS2,2,415,80,2.442662,Rogers Lake,208,KOEMAC,Junegrass,2.5
+RTXL3,3,142,564,9.781452,Reese Tank,727,KOEMAC,Junegrass,2.5
+RTXL6,8,250,510,37.0013,Reese Tank,868,KOEMAC,Junegrass,2.5
+RTXL8,5,245,601,33.23406,Reese Tank,1442,KOEMAC,Junegrass,2.5
+BSL1,4,220,350,83.69568,Black Springs,160,SPOINT,black dropseed,1
+BSL2,3,221,204,72.85927,Black Springs,125,SPOINT,black dropseed,1
+BSL3,1,191,270,62.22908,Black Springs,49,SPOINT,black dropseed,1
+BSL4,11,202,290,89.78355,Black Springs,474,SPOINT,black dropseed,1
+BSL5,6,184,320,67.46818,Black Springs,286,SPOINT,black dropseed,1
+BSM1,2,191,340,30.21134,Black Springs,91,SPOINT,black dropseed,1
+BSM2,4,154,362,38.34405,Black Springs,199,SPOINT,black dropseed,1
+BSM4,4,198,230,48.99146,Black Springs,171,SPOINT,black dropseed,1
+BSM5,4,178,210,40.01258,Black Springs,180,SPOINT,black dropseed,1
+BSM6,4,189,473,46.09802,Black Springs,286,SPOINT,black dropseed,1
+BSS1,1,154,355,13.54868,Black Springs,56,SPOINT,black dropseed,1
+BSS2,2,159,324,22.475,Black Springs,148,SPOINT,black dropseed,1
+placeholder,83,99999,83,2.36,Big Fill,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.77,Big Fill,0,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,4.21,Big Fill,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.53,Big Fill,0,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,5.9,Big Fill,2,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,8.45,Big Fill,10,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,7.75,Big Fill,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,3.43,Big Fill,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.89,Big Fill,0,CARGEO,white mountain sedge,3
+placeholder,48,99999,48,35.55,Big Fill,4,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,23.91,Big Fill,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,15.8,Big Fill,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,9.01,Big Fill,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,96.61,Big Fill,6,CARGEO,white mountain sedge,3
+placeholder,47,99999,47,55.7,Big Fill,5,CARGEO,white mountain sedge,3
+placeholder,60,99999,60,24.07,Big Fill,4,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,44.39,Big Fill,5,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,181.57,Big Fill,7,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.59,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,88,99999,88,2.59,Black Springs,2,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,4.14,Black Springs,4,CARGEO,white mountain sedge,3
+placeholder,65,99999,65,2.32,Black Springs,3,CARGEO,white mountain sedge,3
+placeholder,91,99999,91,2.19,Black Springs,1,CARGEO,white mountain sedge,3
+placeholder,51,99999,51,25.61018,Black Springs,15,CARGEO,white mountain sedge,3
+placeholder,41,99999,41,47.39329,Black Springs,14,CARGEO,white mountain sedge,3
+placeholder,50,99999,50,7.21,Black Springs,5,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,8.21,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.9,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,28,99999,28,5.44,Black Springs,2,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,10.16,Black Springs,1,CARGEO,white mountain sedge,3
+placeholder,78,99999,78,17.37,Black Springs,5,CARGEO,white mountain sedge,3
+placeholder,62,99999,62,7.4,Black Springs,4,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.95,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,92,99999,92,96.47405,Black Springs,22,CARGEO,white mountain sedge,3
+placeholder,71,99999,71,33.56842,Black Springs,9,CARGEO,white mountain sedge,3
+placeholder,80,99999,80,24.18,Black Springs,4,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,23.25,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,12,99999,12,26.44,Black Springs,1,CARGEO,white mountain sedge,3
+placeholder,61,99999,61,12.83,Black Springs,7,CARGEO,white mountain sedge,3
+placeholder,95,99999,95,15.92,Black Springs,6,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,12.42,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,10.27,Black Springs,1,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,12.67,Black Springs,4,CARGEO,white mountain sedge,3
+placeholder,63,99999,63,105.1538,Black Springs,10,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,40.64,Black Springs,8,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,37.75,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,50,99999,50,8.48,Black Springs,1,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,15.33,Black Springs,4,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,19.93,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,19.51,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,20.02,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,60,99999,60,23.39,Black Springs,7,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,32.85,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,123,99999,123,165.13,Black Springs,35,CARGEO,white mountain sedge,3
+placeholder,63,99999,63,67.97,Black Springs,18,CARGEO,white mountain sedge,3
+placeholder,59,99999,59,130.24,Black Springs,14,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,58.81,Black Springs,0,CARGEO,white mountain sedge,3
+placeholder,43,99999,43,95.47,Black Springs,12,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,1.1,Fry Park,1,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,0.93,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,0.62,Fry Park,1,CARGEO,white mountain sedge,3
+placeholder,97,99999,97,16.57865,Fry Park,11,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,3.21,Fry Park,3,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,1.79,Fry Park,1,CARGEO,white mountain sedge,3
+placeholder,44,99999,44,1.26,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.27,Fry Park,0,CARGEO,white mountain sedge,3
+placeholder,12,99999,12,7.69,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,5.68,Fry Park,0,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,5.44,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,12,Fry Park,0,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,7.9,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,65,99999,65,97.85756,Fry Park,15,CARGEO,white mountain sedge,3
+placeholder,70,99999,70,35.08387,Fry Park,19,CARGEO,white mountain sedge,3
+placeholder,66,99999,66,34.7209,Fry Park,17,CARGEO,white mountain sedge,3
+placeholder,56,99999,56,31.28,Fry Park,6,CARGEO,white mountain sedge,3
+placeholder,48,99999,48,15.88,Fry Park,8,CARGEO,white mountain sedge,3
+placeholder,60,99999,60,6.8,Fry Park,6,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,12.25,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,53,99999,53,9.96,Fry Park,7,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,21.14,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,13.97,Fry Park,1,CARGEO,white mountain sedge,3
+placeholder,45,99999,45,170.4462,Fry Park,27,CARGEO,white mountain sedge,3
+placeholder,18,99999,18,32.76,Fry Park,8,CARGEO,white mountain sedge,3
+placeholder,45,99999,45,35.21,Fry Park,7,CARGEO,white mountain sedge,3
+placeholder,43,99999,43,46.07,Fry Park,9,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,36.75,Fry Park,0,CARGEO,white mountain sedge,3
+placeholder,47,99999,47,41.5,Fry Park,18,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,21.07,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,36.86,Fry Park,4,CARGEO,white mountain sedge,3
+placeholder,53,99999,53,34.94,Fry Park,16,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,26.13,Fry Park,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,60.83,Fry Park,0,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,81.33,Fry Park,1,CARGEO,white mountain sedge,3
+placeholder,80,99999,80,124.3,Fry Park,24,CARGEO,white mountain sedge,3
+placeholder,78,99999,78,187.69,Fry Park,23,CARGEO,white mountain sedge,3
+placeholder,38,99999,38,80.94,Fry Park,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.82,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,1.33,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.39,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,2.38,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,23,99999,23,2.02,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,9.28,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,7.07,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,41,99999,41,12.55,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.23,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.94,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,4.21,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,5.67,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,4.2,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,17,99999,17,3.42,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,46,99999,46,8.2,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,11.18,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,10.16,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,15.1,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,22,99999,22,19.88,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,10.33,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,19.13,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,79,99999,79,18.27,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,43,99999,43,23.97,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,14,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,29,99999,29,8.22,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,28.92,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,22.98,Fort Valley,14,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,23.49,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,21.67,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,55,99999,55,26.26,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,38,99999,38,29.03,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,32.74,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,20.85,Fort Valley,7,CARGEO,white mountain sedge,3
+placeholder,38,99999,38,30.03,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,44,99999,44,28.03,Fort Valley,8,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,40.08,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,51,99999,51,76.77,Fort Valley,15,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,43.22,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,48,99999,48,96.78,Fort Valley,15,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,119.67,Fort Valley,37,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,0.87,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,23,99999,23,0.68,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,0.99,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,17,99999,17,1.1,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.52,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,21.68486,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,26.95286,Fort Valley,15,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,31.96442,Fort Valley,10,CARGEO,white mountain sedge,3
+placeholder,44,99999,44,5.01,Fort Valley,10,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,6.62,Fort Valley,6,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,4.88,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,3.78,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.31,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,51,99999,51,6.25,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,4.69,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,60,99999,60,35.07649,Fort Valley,11,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,11.11,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,9.82,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,22.75,Fort Valley,6,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,16.25,Fort Valley,7,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,11.45,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,15.43,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,16.07,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,7.63,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,13.58,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,60,99999,60,60.32234,Fort Valley,18,CARGEO,white mountain sedge,3
+placeholder,28,99999,28,32.39,Fort Valley,9,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,26.61,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,27.09,Fort Valley,7,CARGEO,white mountain sedge,3
+placeholder,15,99999,15,19.22,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,38,99999,38,27.73,Fort Valley,10,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,19.99,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,24.93,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,27.16,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,43,99999,43,31.79,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,28,99999,28,49.77,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,89.3,Fort Valley,13,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,107.58,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,51,99999,51,158.37,Fort Valley,12,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,60.47,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,10,99999,10,1.48,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.52,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,3.15,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.63,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,14,99999,14,4.92,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,5.82,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,7.98,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,8.9,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.69,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,8.25,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,8.49,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,7.16,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,14.82,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,5.73,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.21,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,14.32,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,16.11,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,20.32,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,19.34,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,10.55,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,15.88,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,23.51,Fort Valley,4,CARGEO,white mountain sedge,3
+placeholder,57,99999,57,15.26,Fort Valley,8,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,14.88,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,17.38,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,37.71,Fort Valley,15,CARGEO,white mountain sedge,3
+placeholder,22,99999,22,22.74,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,28,99999,28,26.57,Fort Valley,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,23.65,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,18.86,Fort Valley,0,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,23.04,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,24.93,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,10,99999,10,19.65,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,16,99999,16,27.66,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,47,99999,47,28.66,Fort Valley,3,CARGEO,white mountain sedge,3
+placeholder,17,99999,17,48.59,Fort Valley,1,CARGEO,white mountain sedge,3
+placeholder,29,99999,29,114.27,Fort Valley,10,CARGEO,white mountain sedge,3
+placeholder,43,99999,43,86.42,Fort Valley,24,CARGEO,white mountain sedge,3
+placeholder,48,99999,48,57.02,Fort Valley,12,CARGEO,white mountain sedge,3
+placeholder,53,99999,53,97.08,Fort Valley,5,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,1.62,Reese Tank,1,CARGEO,white mountain sedge,3
+placeholder,38,99999,38,2.38,Reese Tank,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.87,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.38,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,2.71,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,14.19,Reese Tank,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,10.05,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,25,99999,25,9.88,Reese Tank,1,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,4.31,Reese Tank,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,3.37,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,7,99999,7,5.55,Reese Tank,1,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,3.18,Reese Tank,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.89,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,7.38,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,11.95,Reese Tank,1,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,29.38,Reese Tank,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,13.37,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,14.81,Reese Tank,2,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,23.89,Reese Tank,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,15.55,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,22,99999,22,13.6,Reese Tank,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,9.74,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,11.51,Reese Tank,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,16.08,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,15.31,Reese Tank,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,42.92,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,35.01,Reese Tank,4,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,13.78,Reese Tank,3,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,44.24,Reese Tank,5,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,64.53,Reese Tank,3,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,22.8,Reese Tank,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,33.89,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,26.74,Reese Tank,3,CARGEO,white mountain sedge,3
+placeholder,54,99999,54,42.02,Reese Tank,5,CARGEO,white mountain sedge,3
+placeholder,29,99999,29,25.17,Reese Tank,7,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,208.29,Reese Tank,26,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,120.9,Reese Tank,2,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,180.4,Reese Tank,11,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,81.38,Reese Tank,7,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,34.1,Reese Tank,0,CARGEO,white mountain sedge,3
+placeholder,63,99999,63,18.63593,Rogers Lake,8,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.56,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,2.15,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,3.68,Rogers Lake,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.46,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,50,99999,50,43.52467,Rogers Lake,10,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,11.32,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,14.4,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,6,Rogers Lake,1,CARGEO,white mountain sedge,3
+placeholder,25,99999,25,3.06,Rogers Lake,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.47,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,7.76,Rogers Lake,2,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,6.5,Rogers Lake,1,CARGEO,white mountain sedge,3
+placeholder,61,99999,61,6.09,Rogers Lake,1,CARGEO,white mountain sedge,3
+placeholder,50,99999,50,3.41,Rogers Lake,1,CARGEO,white mountain sedge,3
+placeholder,53,99999,53,78.76578,Rogers Lake,12,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,67.0705,Rogers Lake,10,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,17.16,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,19.8,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,21.41,Rogers Lake,3,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,14.68,Rogers Lake,1,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,13.17,Rogers Lake,5,CARGEO,white mountain sedge,3
+placeholder,25,99999,25,6.21,Rogers Lake,3,CARGEO,white mountain sedge,3
+placeholder,22,99999,22,14.89,Rogers Lake,3,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,11,Rogers Lake,4,CARGEO,white mountain sedge,3
+placeholder,56,99999,56,100.5542,Rogers Lake,10,CARGEO,white mountain sedge,3
+placeholder,49,99999,49,53.79,Rogers Lake,17,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,29.48,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,43,99999,43,68.99,Rogers Lake,19,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,52.56,Rogers Lake,8,CARGEO,white mountain sedge,3
+placeholder,38,99999,38,39.79,Rogers Lake,7,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,40.87,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,47.44,Rogers Lake,5,CARGEO,white mountain sedge,3
+placeholder,49,99999,49,37.93,Rogers Lake,9,CARGEO,white mountain sedge,3
+placeholder,50,99999,50,52.16,Rogers Lake,6,CARGEO,white mountain sedge,3
+placeholder,49,99999,49,194.13,Rogers Lake,14,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,199.06,Rogers Lake,0,CARGEO,white mountain sedge,3
+placeholder,46,99999,46,131.82,Rogers Lake,30,CARGEO,white mountain sedge,3
+placeholder,45,99999,45,120.33,Rogers Lake,35,CARGEO,white mountain sedge,3
+placeholder,50,99999,50,150.04,Rogers Lake,26,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,2.75,Government Knolls,0,CARGEO,white mountain sedge,3
+placeholder,52,99999,52,2.57,Government Knolls,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,3.04,Government Knolls,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.08,Government Knolls,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.86,Government Knolls,0,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,34.77448,Government Knolls,6,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,17.09284,Government Knolls,2,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,17.02683,Government Knolls,5,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,29.14986,Government Knolls,7,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.94,Government Knolls,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,6.95,Government Knolls,2,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,9.58,Government Knolls,3,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,5.09,Government Knolls,4,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,14.48,Government Knolls,1,CARGEO,white mountain sedge,3
+placeholder,15,99999,15,9.48,Government Knolls,1,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,27.71,Government Knolls,9,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,18.09,Government Knolls,4,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,18.14,Government Knolls,12,CARGEO,white mountain sedge,3
+placeholder,45,99999,45,20.06,Government Knolls,3,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,17.37,Government Knolls,6,CARGEO,white mountain sedge,3
+placeholder,25,99999,25,11.09,Government Knolls,3,CARGEO,white mountain sedge,3
+placeholder,28,99999,28,15.26,Government Knolls,10,CARGEO,white mountain sedge,3
+placeholder,12,99999,12,15.15,Government Knolls,2,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,18.5,Government Knolls,2,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,17.06,Government Knolls,4,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,90.60508,Government Knolls,9,CARGEO,white mountain sedge,3
+placeholder,51,99999,51,26.77,Government Knolls,5,CARGEO,white mountain sedge,3
+placeholder,23,99999,23,46.39,Government Knolls,4,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,21.24,Government Knolls,4,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,25.38,Government Knolls,12,CARGEO,white mountain sedge,3
+placeholder,44,99999,44,42.64,Government Knolls,11,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,37.55,Government Knolls,3,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,22.91,Government Knolls,6,CARGEO,white mountain sedge,3
+placeholder,43,99999,43,21.88,Government Knolls,5,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,39.33,Government Knolls,3,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,97.17,Government Knolls,37,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,53.16,Government Knolls,11,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,83.41,Government Knolls,26,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,41.14,Government Knolls,13,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,73.91,Government Knolls,12,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.44498,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,10,99999,10,3.246566,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,3.71,Kendrick Panel,2,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,2.98,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.24,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,18.21128,Kendrick Panel,9,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,10.28,Kendrick Panel,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.52,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,44,99999,44,10.27,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,46,99999,46,10.73,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,6.38,Kendrick Panel,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,5.8,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,8.27,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,8.82,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,27,99999,27,4.28,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,50.35437,Kendrick Panel,5,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,41.34464,Kendrick Panel,11,CARGEO,white mountain sedge,3
+placeholder,51,99999,51,43.92865,Kendrick Panel,10,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,20.08,Kendrick Panel,10,CARGEO,white mountain sedge,3
+placeholder,29,99999,29,17.1,Kendrick Panel,2,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,13.92,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,36,99999,36,28.19,Kendrick Panel,2,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,16.8,Kendrick Panel,2,CARGEO,white mountain sedge,3
+placeholder,25,99999,25,24.4,Kendrick Panel,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,20.99,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,62.38999,Kendrick Panel,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,50.08,Kendrick Panel,0,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,40.63,Kendrick Panel,7,CARGEO,white mountain sedge,3
+placeholder,15,99999,15,45.49,Kendrick Panel,4,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,30.64,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,35.42,Kendrick Panel,5,CARGEO,white mountain sedge,3
+placeholder,33,99999,33,33.67,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,28.58,Kendrick Panel,5,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,20.98,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,30.75,Kendrick Panel,7,CARGEO,white mountain sedge,3
+placeholder,120,99999,120,72.6,Kendrick Panel,1,CARGEO,white mountain sedge,3
+placeholder,38,99999,38,50.32,Kendrick Panel,9,CARGEO,white mountain sedge,3
+placeholder,22,99999,22,57.53,Kendrick Panel,6,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,116.11,Kendrick Panel,14,CARGEO,white mountain sedge,3
+placeholder,48,99999,48,91.16,Kendrick Panel,10,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.71,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.54,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.61,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.98,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.13,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,28.53772,SI Panel,22,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,12.74,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,9.16,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,9.29,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,2.25,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,7.72,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,6.22,SI Panel,3,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,7.43,SI Panel,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,9.02,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.31,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,50,99999,50,45.31497,SI Panel,12,CARGEO,white mountain sedge,3
+placeholder,65,99999,65,41.17932,SI Panel,16,CARGEO,white mountain sedge,3
+placeholder,53,99999,53,48.10176,SI Panel,11,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,26.12,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,34,99999,34,19.38,SI Panel,8,CARGEO,white mountain sedge,3
+placeholder,37,99999,37,17.68,SI Panel,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,21.16,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,17.6,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,55,99999,55,23.7,SI Panel,2,CARGEO,white mountain sedge,3
+placeholder,75,99999,75,15.95,SI Panel,1,CARGEO,white mountain sedge,3
+placeholder,45,99999,45,178.2586,SI Panel,41,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,25.67,SI Panel,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,35.47,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,29.06,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,33.69,SI Panel,4,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,23.54,SI Panel,4,CARGEO,white mountain sedge,3
+placeholder,39,99999,39,34.69,SI Panel,4,CARGEO,white mountain sedge,3
+placeholder,42,99999,42,28.1,SI Panel,6,CARGEO,white mountain sedge,3
+placeholder,25,99999,25,22.32,SI Panel,4,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,20.33,SI Panel,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,70.34,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,45.99,SI Panel,0,CARGEO,white mountain sedge,3
+placeholder,67,99999,67,127.01,SI Panel,1,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,138.29,SI Panel,5,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,76.43,SI Panel,9,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.69,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,3.19,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,0.82,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.75,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,1.93,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,6.08,Nordic Center,2,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,9.72,Nordic Center,4,CARGEO,white mountain sedge,3
+placeholder,18,99999,18,11.66,Nordic Center,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,4.38,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,5.97,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.54,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,5.65,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,6.95,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,6.24,Nordic Center,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,5.96,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,14.28,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,35,99999,35,13.65,Nordic Center,6,CARGEO,white mountain sedge,3
+placeholder,54,99999,54,12.65,Nordic Center,2,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,13.62,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,24,99999,24,12.49,Nordic Center,4,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,13.43,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,14.43,Nordic Center,5,CARGEO,white mountain sedge,3
+placeholder,20,99999,20,14.98,Nordic Center,1,CARGEO,white mountain sedge,3
+placeholder,18,99999,18,15.48,Nordic Center,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,14.35,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,52,99999,52,27.7,Nordic Center,4,CARGEO,white mountain sedge,3
+placeholder,40,99999,40,22.7,Nordic Center,3,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,23.4,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,21,99999,21,28.01,Nordic Center,1,CARGEO,white mountain sedge,3
+placeholder,0,99999,0,20.21,Nordic Center,0,CARGEO,white mountain sedge,3
+placeholder,29,99999,29,31.78,Nordic Center,2,CARGEO,white mountain sedge,3
+placeholder,26,99999,26,28.41,Nordic Center,1,CARGEO,white mountain sedge,3
+placeholder,41,99999,41,25.72,Nordic Center,2,CARGEO,white mountain sedge,3
+placeholder,16,99999,16,31.25,Nordic Center,1,CARGEO,white mountain sedge,3
+placeholder,23,99999,23,34.89,Nordic Center,5,CARGEO,white mountain sedge,3
+placeholder,19,99999,19,47.62,Nordic Center,13,CARGEO,white mountain sedge,3
+placeholder,30,99999,30,160.14,Nordic Center,20,CARGEO,white mountain sedge,3
+placeholder,32,99999,32,43.8,Nordic Center,16,CARGEO,white mountain sedge,3
+placeholder,92,99999,92,153.55,Nordic Center,20,CARGEO,white mountain sedge,3
+placeholder,31,99999,31,54.87,Nordic Center,4,CARGEO,white mountain sedge,3

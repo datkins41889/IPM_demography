@@ -13,6 +13,13 @@ ipm_data$nBuff_area_15cm = GN_genet_15cm$nBuff_area
 ipm_data$neighbors_area_20cm = GN_genet_20cm$neighbors_area
 ipm_data$nBuff_area_20cm = GN_genet_20cm$nBuff_area
 
+ipm_data = sf::st_drop_geometery(ipm_data)
+
+saveRDS(ipm_data, "ipm_data.RDS")
+fec = read.csv(paste0(getwd(),"/Fecundity Data/fecundity_allSpp.csv"))
+unique(ipm_data$species)
+
+test = split(ipm_data, list(ipm_data$species, ipm_data$Site))
 
 ## Build the discretized kernel
 m=100
