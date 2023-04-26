@@ -46,7 +46,15 @@ ipm_data_trim$survives_tplus1 = as.factor(ipm_data_trim$survives_tplus1)
 
 #ipm_data_trim$prop_neighbor_cover_20cm = ipm_data_trim$neighbors_area_20cm/ipm_data_trim$nBuff_area_20cm
 #ipm_data_trim$asin_prop_cover_20cm = asin(sqrt(ipm_data_trim$prop_neighbor_cover_20cm))
+plot(log(ipm_data_trim$size_t), log(ipm_data_trim$size_tplus1), main = "Original")
 
+## Removing extreme suspect points
+test = ipm_data_trim[!(!log(ipm_data_trim$size_t) > -10 & !log(ipm_data_trim$size_tplus1)/log(ipm_data_trim$size_t) > .7),]
+test = test[!(!log(test$size_tplus1) > -10 & !log(test$size_tplus1)/log(test$size_t) < 1.5),]
+test = test[log(test$size_t) > -12.8 & log(test$size_tplus1) > -12.8,]
+
+plot(log(test$size_t), log(test$size_tplus1), main = "Extreme suspects removed")
+par(mfrow = c(1,1))
 ipm_split = split(ipm_data_trim, list(ipm_data_trim$species, ipm_data_trim$Site, ipm_data_trim$z_Year))
 
 ipm_split = ipm_split[lapply(ipm_split, nrow)>20] ## Filter down to only years with > 10 observations
