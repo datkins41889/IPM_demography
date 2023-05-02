@@ -55,6 +55,11 @@ test = test[log(test$size_t) > -12.8 & log(test$size_tplus1) > -12.8,]
 
 plot(log(test$size_t), log(test$size_tplus1), main = "Extreme suspects removed")
 par(mfrow = c(1,1))
+ipm_data_trim2 = test
+ipm_data_trim2 = ipm_data_trim2[!grepl("NA", rownames(ipm_data_trim2)),]
+ipm_split = split(ipm_data_trim2, list(ipm_data_trim2$species, ipm_data_trim2$Site, ipm_data_trim2$z_Year))
+
+
 ipm_split = split(ipm_data_trim, list(ipm_data_trim$species, ipm_data_trim$Site, ipm_data_trim$z_Year))
 
 ipm_split = ipm_split[lapply(ipm_split, nrow)>20] ## Filter down to only years with > 10 observations
@@ -293,7 +298,7 @@ paramList_dendep_n10 = paramList_dendep_n10[lengths(paramList_dendep_n10)!=0]
 ##################################
 ipm_split = split(ipm_data_trim, list(ipm_data_trim$species, ipm_data_trim$Site, ipm_data_trim$z_Year))
 ipm_split = ipm_split[lapply(ipm_split, nrow)>20] ## Filter down to only years with > 20 observations
-paramList_dendep_n20 = list()
+paramList_dendep_n20_2 = list()
 
 i = 0
 j = i+1
@@ -355,7 +360,7 @@ for(i in j:length(ipm_split)){
   params_dd$recruit.size.sd=sd(dat_i$log_sizet[dat_i$recruit==1], na.rm =TRUE)
   
   params_dd$establishment.prob=sum(dat_i$recruit, na.rm = TRUE)/sum(dat_i$seed.pred,na.rm=TRUE)
-  paramList_dendep_n20[[i]] = params_dd
+  paramList_dendep_n20_2[[i]] = params_dd
   
 }
 paramList_dendep_n20 = paramList_dendep_n20[lengths(paramList_dendep_n20)!=0]
@@ -455,11 +460,75 @@ lambdas_dd_n10 = temp[complete.cases(temp),]
 ###########################################
 ## Density Dependent, min N  = 20
 ###########################################
+i = 0
+j = i+1
+for(i in j:length(ipm_split)){
+  dat_i = ipm_split[[i]]
+  if(unique(dat_i$z_Year == "2021")){
+    next
+  }
+  sp.code = unique(dat_i$code)
+  naames = stringr::str_split(names(ipm_split)[[i]], "[.]")
+  seed.mod = seed.mods[[paste(sp.code)]]
+  newdat = data.frame(log_area_m2 = dat_i$log_sizet)
+  dat_i$seed.pred = round(predict(seed.mod, newdata = newdat, type = "response"),0)
+  
+  params_dd=data.frame(
+    #####
+    species=naames[[1]][1],
+    code = sp.code,
+    site = naames[[1]][2],
+    year = naames[[1]][3],
+    #####
+    surv.int=NA,
+    surv.slope=NA,
+    surv.dd_beta = NA,
+    surv.dd_p = NA,
+    #####
+    growth.int=NA,
+    growth.slope=NA,
+    growth.sd=NA,
+    growth.dd_beta=NA,
+    growth.dd_p = NA,
+    #####
+    flwr.int=flwr.params[sp.code][[sp.code]]$flwr.int,
+    flwr.slope=flwr.params[sp.code][[sp.code]]$flwr.slope,
+    #####
+    seed.int=coef(seed.mod)[1],
+    seed.slope=coef(seed.mod)[2],
+    #####
+    recruit.size.mean=NA,
+    recruit.size.sd=NA,
+    #####
+    establishment.prob=NA
+  )
+  
+  surv.reg=glm(survives_tplus1 ~ log_sizet + log(self_neighbors_area_20cm+0.00000000000001), data=dat_i, family = binomial, singular.ok = T)
+  params_dd$surv.int=coefficients(surv.reg)[1]
+  params_dd$surv.slope=coefficients(surv.reg)[2]
+  params_dd$surv.dd_beta = coefficients(surv.reg)[3]
+  params_dd$surv.dd_p = summary(surv.reg)$coefficients[3,4]
+  
+  growth.reg=lm(log_sizetplus1 ~ log_sizet + log(self_neighbors_area_20cm+0.00000000000001), data=dat_i)
+  params_dd$growth.int=coefficients(growth.reg)[1]
+  params_dd$growth.slope=coefficients(growth.reg)[2]
+  params_dd$growth.sd=sd(resid(growth.reg))
+  params_dd$growth.dd_beta = coefficients(growth.reg)[3]
+  params_dd$growth.dd_p = summary(growth.reg)$coefficients[3,4]
+  
+  params_dd$recruit.size.mean=mean(dat_i$log_sizet[dat_i$recruit==1], na.rm =TRUE)
+  params_dd$recruit.size.sd=sd(dat_i$log_sizet[dat_i$recruit==1], na.rm =TRUE)
+  
+  params_dd$establishment.prob=sum(dat_i$recruit, na.rm = TRUE)/sum(dat_i$seed.pred,na.rm=TRUE)
+  paramList_dendep_n20_2[[i]] = params_dd
+  
+}
+paramList_dendep_n20 = paramList_dendep_n20[lengths(paramList_dendep_n20)!=0]
 
 i=0
 j = i+1
-for(i in j:length(paramList_dendep_n20)){
-  params = paramList_dendep_n20[[i]]
+for(i in j:length(paramList_dendep_n20_2)){
+  params = paramList_dendep_n20_2[[i]]
   P <- h * (outer(y, y, P_z1z, params = params))
   F <- h * (outer(y, y, F_z1z, params = params))
   K <- P + F
@@ -468,13 +537,13 @@ for(i in j:length(paramList_dendep_n20)){
   IPM.eig.sys <- eigen(K)
   ## lambda
   lambda <- Re(IPM.eig.sys$values[1])
-  paramList_dendep_n20[[i]]["lambda"] = lambda
+  paramList_dendep_n20_2[[i]]["lambda"] = lambda
   
 }
 i == length(paramList_dendep_n20)
-paramList_dendep_n20 = paramList_dendep_n20[lapply(paramList_dendep_n20, length) == 21]
-temp = do.call(rbind.data.frame, paramList_dendep_n20)
-lambdas_dd_n20 = temp[complete.cases(temp),]
+paramList_dendep_n20_2 = paramList_dendep_n20_2[lapply(paramList_dendep_n20_2, length) == 21]
+temp = do.call(rbind.data.frame, paramList_dendep_n20_2)
+lambdas_dd_n20_2 = temp[complete.cases(temp),]
 
 ################################
 ## Merging into a single DF
